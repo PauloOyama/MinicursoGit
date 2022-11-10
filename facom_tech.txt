@@ -1,3 +1,2 @@
- Aula 2
- 
- Facom TechWeek 2022
+ Aula 2 - 
+ Facom TechWeek 2022 - Minicurso Git 
